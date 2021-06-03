@@ -1,5 +1,4 @@
----
 applications:
- - name: GetStartedNode
-   random-route: true
-   memory: 128M
+- name: phptest345
+  memory: 128M
+  buildpack: php_buildpack
